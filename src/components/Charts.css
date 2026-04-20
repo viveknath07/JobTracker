@@ -1,0 +1,28 @@
+.chart-tooltip {
+  background: #0f0f1a;
+  border: 1px solid rgba(255, 255, 255, 0.1);
+  border-radius: 8px;
+  padding: 0.5rem 0.75rem;
+}
+
+.tooltip-label {
+  margin: 0;
+  font-size: 0.8rem;
+  color: #9ca3af;
+}
+
+.tooltip-value {
+  margin: 0.2rem 0 0;
+  font-size: 1rem;
+  font-weight: 700;
+  color: #f1f5f9;
+}
+
+.chart-empty {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  height: 240px;
+  color: #4b5563;
+  font-size: 0.9rem;
+}
